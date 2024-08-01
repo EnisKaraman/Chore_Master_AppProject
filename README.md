@@ -1,5 +1,5 @@
 # Chores Master
-Chore Master: Evinizdeki İşleri Kolayca Yönetin. Chore Master, ev işlerinin ve görevlerin kolayca takip edilmesini sağlayan yenilikçi bir uygulamadır. Kullanıcı dostu arayüzü ve güçlü özellikleri ile ev işlerini yönetmeyi hiç olmadığı kadar basit ve verimli hale getirir.
+Chores Master: Evinizdeki İşleri Kolayca Yönetin. Chores Master, ev işlerinin ve görevlerin kolayca takip edilmesini sağlayan yenilikçi bir uygulamadır. Kullanıcı dostu arayüzü ve güçlü özellikleri ile ev işlerini yönetmeyi hiç olmadığı kadar basit ve verimli hale getirir.
 ## Group 79
 - Selcan Özbayrak: Product Owner/Developer
 - Muhammed Enis Karaman: Scrum Master/Developer
